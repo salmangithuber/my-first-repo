@@ -1,2 +1,3 @@
 # my-first-repo
-my first repository
+my first repository.
+change readme for first time
